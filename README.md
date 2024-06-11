@@ -33,7 +33,7 @@
 - **[Java 17](https://www.oracle.com/java)**
 - ![HTML](https://img.shields.io/badge/JAVA-orange)  
 - **[Spring Boot 3](https://spring.io/projects/spring-boot)**
--  ![HTML](https://img.shields.io/badge/Spring Boot-green)
+-  ![HTML](https://img.shields.io/badge/Spring-Boot-green)
 - **[Maven](https://maven.apache.org)**
 - ![HTML](https://img.shields.io/badge/Maven-blue)
 - **[MySQL](https://www.mysql.com)**
