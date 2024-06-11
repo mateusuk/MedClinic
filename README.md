@@ -1,50 +1,67 @@
-## 💻 Sobre o projeto
+# VollMed-app
 
-Voll.med é uma clínica médica fictícia que precisa de um aplicativo para gestão de consultas. O aplicativo deve possuir funcionalidades que permitam o cadastro de médicos e de pacientes, e também o agendamento e cancelamento de consultas.
+  ## 📄 Table of Contents
+  
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Features](#features)
+  - [Tools](#tools)
+  - [License](#license)
+  - [Questions](#questions)
 
-Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o nosso será responsável pelo desenvolvimento da API Rest desse projeto.
+  ## 💻 Description
+  
+  Voll.med is a fictitious medical clinic that needs an application for managing appointments. The application should have features that allow for the registration of doctors and patients, as well as the scheduling and cancellation of appointments. Our team will be responsible for developing the Rest API for this project.
+  
+  ## 🎨 Usage
 
----
+  Figma link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
 
-## ⚙️ Funcionalidades
 
-- [x] CRUD de médicos;
-- [x] CRUD de pacientes;
-- [x] Agendamento de consultas;
-- [x] Cancelamento de consultas.
+  ## ⚙️ Features
 
----
+- [x] CRUD Doctors;
+- [x] CRUD Patients;
+- [x] Appointment scheduling;
+- [x] Appointment cancellation.
 
-## 🎨 Layout
+  ##  🛠 Tools
 
-O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
-
----
-
-## 📄 Documentação
-
-A documentação das funcionalidades da aplicação pode ser acessada neste link: <a href="https://trello.com/b/O0lGCsKb/api-voll-med">Trello</a>
-
----
-
-## 🛠 Tecnologias
-
-As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
+  The following technologies were used in the development of the Rest API of the project.
 
 - **[Java 17](https://www.oracle.com/java)**
+- ![HTML](https://img.shields.io/badge/JAVA-orange)  
 - **[Spring Boot 3](https://spring.io/projects/spring-boot)**
+-  ![HTML](https://img.shields.io/badge/Spring Boot-green)
 - **[Maven](https://maven.apache.org)**
+- ![HTML](https://img.shields.io/badge/Maven-blue)
 - **[MySQL](https://www.mysql.com)**
+- ![HTML](https://img.shields.io/badge/Mysql-blue)
 - **[Hibernate](https://hibernate.org)**
+- ![HTML](https://img.shields.io/badge/Hibernate-green)
 - **[Flyway](https://flywaydb.org)**
+- ![HTML](https://img.shields.io/badge/Flyway-red)
 - **[Lombok](https://projectlombok.org)**
+- ![HTML](https://img.shields.io/badge/Lombok-red)
 
----
+  ## 📝 License
 
-## 📝 Licença
+  Project developed by [Alura](https://www.alura.com.br) and used in Spring Boot courses.
 
-Projeto desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos cursos de Spring Boot.
+  Instructor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira)
 
-Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira) 
 
----
+  ## 📝 Questions
+
+  For additional questions, please contact mateus.oliveira.uk@gmail.com. Visit my [GitHub profile](https://github.com/Mateuzuk) to see more of my work.
+  
+  
+
+
+
+
+
+
+
+
