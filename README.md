@@ -25,7 +25,7 @@
 - [x] Appointment scheduling;
 - [x] Appointment cancellation.
 
-  ##  🛠 Tools
+  ## 🛠 Tools
 
   The following technologies were used in the development of the Rest API of the project.
 
